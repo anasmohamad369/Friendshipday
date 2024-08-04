@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.vid-tag{
+    display: flex;
+    /* align-items: start; */
+    justify-content: center;
+    /* background-color: aquamarine; */
+}
+video{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 100vh;
+    width: 1000px;
+    /* background-color: aquamarine; */
+}

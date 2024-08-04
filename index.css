@@ -1,0 +1,54 @@
+body {
+    background: 
+      linear-gradient(#0007, #0000),
+      #123;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+  }
+  .head{
+    height: 250px;
+    width: 600px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+  }
+  .fireworks{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .name{
+    /* background-color: aqua; */
+    text-align: center;
+    font-family: cursive;
+    color: #123;
+}
+.ptag p {
+    text-align: center;
+    font-size: 25px;
+    font-family: monospace;
+}
+.btn button{
+  height: 40px;
+width: 200px;
+  background-color: aqua;
+  transition: 2s;
+}
+.btn a{
+  font-weight: bold;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+  color: #000;
+  text-decoration: none;
+}
+button:hover{
+  background-color: rgb(161, 172, 183);
+
+}

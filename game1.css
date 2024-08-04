@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.h1tag{
+    background: linear-gradient(90deg, #ff6f61, #ffba92);
+    /* background-color: rgb(74, 74, 87); */
+    height: 100px;
+    /* width: 100vw; */
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+
+}
+.maqtag{
+    color: aliceblue;
+    text-align: center;
+}
